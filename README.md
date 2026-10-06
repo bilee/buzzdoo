@@ -4,7 +4,7 @@ to do app
 # Buzzdoo Task App
 
 ## 🐝 How to Get Buzzy
-
+https://claude.ai/public/artifacts/6a27b9b5-f7dd-4e51-b056-af95672d17e7
 ### Quick Start
 1.  Type in "Get buzzy!"
 2.  Select category
